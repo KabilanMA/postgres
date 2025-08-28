@@ -63,6 +63,7 @@ subdir('spi')
 subdir('sslinfo')
 # start-scripts doesn't contain build products
 subdir('tablefunc')
+subdir('mutation_testing')
 subdir('tcn')
 subdir('test_decoding')
 subdir('tsm_system_rows')

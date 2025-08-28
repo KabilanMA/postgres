@@ -51,6 +51,7 @@ SUBDIRS = \
 		tsm_system_rows \
 		tsm_system_time \
 		unaccent	\
+		mutation_testing \
 		vacuumlo
 
 ifeq ($(with_ssl),openssl)

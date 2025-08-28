@@ -1,0 +1,6 @@
+# mutation_testing.control
+comment = 'Mutation testing SQL function'
+default_version = '1.0'
+module_pathname = '$libdir/mutation_testing'
+relocatable = true
+trusted = true
